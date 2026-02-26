@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adrian Aspiring C# / .NET Developer | Web & Software Architecture Enthusiast </h1>
-<h3 align="center">A passionate programmer from Poland</h3>
+<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h3 align="center">  Aspiring C# / .NET Developer | Web & Software Architecture Enthusiast </h3>
 
 - 🔭 I’m currently focused on expanding my knowledge in C# and .NET Core ecosystem
 - ⚙️ In my free time, I explore low-level mechanics by building my own voxel-based rendering engines to better understand software architecture and performance
